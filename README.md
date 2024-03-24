@@ -1,5 +1,5 @@
 
-#Transport catalogue.
+# Transport catalogue.
 
 ## A training project within the framework of the Yandex Practicum course "C++ Developer"
 
@@ -22,7 +22,7 @@ Two-stage program that works with JSON, makes a transport database and gives inf
 * C++ 17
 
 
-#Транспортный справочник
+# Транспортный справочник
 
  ## Учебный проект в рамках курса Яндекс Практикума "Разработчик С++"
 
