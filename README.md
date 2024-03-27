@@ -1,8 +1,6 @@
 
 # Transport catalogue.
 
-## A training project within the framework of the Yandex Practicum course "C++ Developer"
-
 Two-stage program that works with JSON, makes a transport database and gives information on four types requests:
  1. bus stop information
     * bus numbers that go through the bus stop
@@ -23,8 +21,6 @@ Two-stage program that works with JSON, makes a transport database and gives inf
 
 
 # Транспортный справочник
-
- ## Учебный проект в рамках курса Яндекс Практикума "Разработчик С++"
 
 Двухстадийная программа, которая принимает JSON, создает транспортную базу данных и выводит информацию по четырем типам запросов: 
 1. информацию об автобусной остановке
